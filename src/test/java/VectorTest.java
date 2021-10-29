@@ -74,4 +74,22 @@ public class VectorTest {
         Assertions.assertEquals(20,result);
 
     }
+
+    @Test
+    public void firstElementIsEvenWithEvenFirstElementTest(){
+        int[] array = new int[]{8,2,5,3,4,5};
+
+        boolean result = vector.isFirstElementEven(array);
+        Assertions.assertTrue(result);
+
+    }
+
+    @Test
+    public void firstElementIsEvenWithNotEvenFirstElementTest(){
+        int[] array = new int[]{1,2,5,3,4,5};
+
+        boolean result = vector.isFirstElementEven(array);
+        Assertions.assertFalse(result);
+
+    }
 }

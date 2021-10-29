@@ -26,4 +26,11 @@ public class Vector {
         }
         return sum;
     }
+
+    public boolean isFirstElementEven(int[] array){
+        if (array.length>0 && array[0] % 2 == 0)
+            return true;
+        else
+            return false;
+    }
 }
