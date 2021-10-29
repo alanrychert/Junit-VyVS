@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VectorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-10-29T20:02:45" hostname="DESKTOP-NRTDNJM" time="0.037">
+  <properties/>
+  <testcase name="firstElementGreaterTest()" classname="VectorTest" time="0.02"/>
+  <testcase name="sumatoryWithNegativeNumberTest()" classname="VectorTest" time="0.001"/>
+  <testcase name="lastElementGreaterTest()" classname="VectorTest" time="0.002"/>
+  <testcase name="middleElementMinorTest()" classname="VectorTest" time="0.001"/>
+  <testcase name="sumatoryWithoutNegativeNumberTest()" classname="VectorTest" time="0.001"/>
+  <testcase name="middleElementGreaterTest()" classname="VectorTest" time="0.001"/>
+  <testcase name="firstElementMinorTest()" classname="VectorTest" time="0.001"/>
+  <testcase name="lastElementMinorTest()" classname="VectorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
