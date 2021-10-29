@@ -77,3 +77,8 @@ fabric.properties
 *.xml
 *.iml
 *.kotlin_module
+*.bin
+*.lock
+*.kotlin_module
+*.tab
+*.keystream
