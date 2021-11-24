@@ -23,7 +23,7 @@ public class VectorTest {
 
     @Test
     public void lastElementGreaterTest(){
-        int[] array = new int[]{1,2,5,3,4,15};
+        int[] array = new int[]{1,2,20,3,4,15};
 
         int result = vector.greater(array);
         Assertions.assertEquals(15,result);
